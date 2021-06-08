@@ -14,8 +14,8 @@ java -jar ItemGenerator.jar -t tableName -n numTransactions -s numSecurities -l 
 The jar expects default AWS credentials to be configured. 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html#cli-configure-files-methods
 
-You must have the following tables deployed in your account, substitute "tableName" for whatever you wish to use:
-tableName
+You must have the following tables deployed in your account, substitute "tableName" for whatever you wish to use:<br>
+tableName<br>
 tableName_S
 
 Both tables must be configured for global replication.
