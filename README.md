@@ -7,7 +7,7 @@ Follow directions at link above to install Maven and build project with followin
 
 mvn clean package shade:shade
 
-The shaded jar will be built in the /target directory. Rename ItemGenerator-0.0.1-SNAPshot.jar to ItemGenerator.jar. 
+The shaded jar will be built in the /target directory. Rename ItemGenerator-0.0.1-SNAPSHOT.jar to ItemGenerator.jar. 
 
 Execute the jar as follows:
 
